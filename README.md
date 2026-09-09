@@ -5,4 +5,4 @@ I'm a passionate Backend Developer specializing in building reliable APIs, scala
 
 I enjoy learning new technologies, solving complex problems, and turning innovative ideas into real-world projects
 
-### Python Developer <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaL9PaFXM0Ikvj-x-PB5XYsI-Bx-NaTUGScSiOrbWOXQ&s=10" width="50px">
+### Python Developer <img src="https://static.vecteezy.com/system/resources/thumbnails/044/764/373/small_2x/python-sign-3d-rendering-illustration-png.png" width="50px">
