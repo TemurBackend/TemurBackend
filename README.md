@@ -5,4 +5,4 @@ I'm a passionate Backend Developer specializing in building reliable APIs, scala
 
 I enjoy learning new technologies, solving complex problems, and turning innovative ideas into real-world projects
 
-### Python Developer <img src="https://w7.pngwing.com/pngs/762/701/png-transparent-mobile-backend-as-a-service-apigee-architecture-application-programming-interface-computer-software-generation-angle-text-rectangle.png" width="40px">
+### Python Developer <img src="https://w7.pngwing.com/pngs/762/701/png-transparent-mobile-backend-as-a-service-apigee-architecture-application-programming-interface-computer-software-generation-angle-text-rectangle.png" width="50px">
