@@ -6,4 +6,4 @@ I'm a passionate Backend Developer specializing in building reliable APIs, scala
 I enjoy learning new technologies, solving complex problems, and turning innovative ideas into real-world projects
 
 ### Python Developer <img src="https://static.vecteezy.com/system/resources/thumbnails/044/764/373/small_2x/python-sign-3d-rendering-illustration-png.png" width="35px">
-### Backend & REST API Development <img src="https://p1.hiclipart.com/preview/541/874/350/database-logo-backup-backup-and-restore-computer-software-computer-servers-disaster-recovery-user-interface-veeam-backup-replication-png-clipart.jpg" width="35px">
+### Backend & REST API Development <img src="https://p7.hiclipart.com/preview/300/662/477/database-server-computer-icons-backup-computer-servers-others-thumbnail.jpg" width="35px">
